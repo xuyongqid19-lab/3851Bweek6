@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.dart_tool/
+build/
+*.log
+.run/
+android/local.properties
